@@ -1,2 +1,2 @@
 # hello-world
-All this is the nwe content on thefile...  It shod be red in the code view.
+All this is the new content on thefile...  It should be green in the code view.
