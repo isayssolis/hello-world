@@ -1,3 +1,2 @@
 # hello-world
-This is my first repository
-And this is my first comment  I hope to learn a lot more about GIT
+All this is the nwe content on thefile...  It shod be red in the code view.
